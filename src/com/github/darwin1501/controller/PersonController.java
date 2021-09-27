@@ -1,7 +1,7 @@
-package com.darwin.controller;
+package com.github.darwin1501.controller;
 
-import com.darwin.model.PersonModel;
-import com.darwin.view.PersonView;
+import com.github.darwin1501.model.PersonModel;
+import com.github.darwin1501.view.PersonView;
 
 import javax.swing.*;
 

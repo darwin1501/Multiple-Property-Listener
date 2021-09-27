@@ -1,8 +1,8 @@
-package com.darwin;
+package com.github.darwin1501;
 
-import com.darwin.controller.PersonController;
-import com.darwin.model.PersonModel;
-import com.darwin.view.PersonView;
+import com.github.darwin1501.controller.PersonController;
+import com.github.darwin1501.model.PersonModel;
+import com.github.darwin1501.view.PersonView;
 
 public class App {
 

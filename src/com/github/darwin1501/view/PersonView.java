@@ -1,12 +1,7 @@
-package com.darwin.view;
-
-import com.darwin.controller.PersonController;
-import com.darwin.model.PersonModel;
+package com.github.darwin1501.view;
 
 import javax.swing.*;
 import java.awt.*;
-import java.beans.PropertyChangeEvent;
-import java.beans.PropertyChangeListener;
 
 public class PersonView{
 
